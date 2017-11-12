@@ -1,0 +1,18 @@
+.flex {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.red {
+    color: red;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.spacing {
+    margin-left: 10px;
+    margin-right: 10px;
+}
